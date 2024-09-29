@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardTemplate.Table" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIC0gEQEACwEAABEBAAAEILQICLQIkB5aEAMQEgAGEA=</HashCode>
+      <FileName>Assets\Scripts\Table.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="activePlayers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CardTemplate.Player" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAoUACAAAAAiAAECAIABCIAIIAAgABAAAgAAESg=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="hand" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CardTemplate.Hand" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAMEAAAAAAgAAAAAAAAAAAAAQBBAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardTemplate.PokerTable" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAACAAAAIAAAIAEAAEAA=</HashCode>
+      <FileName>Assets\Scripts\PokerTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardTemplate.PokerPlayer" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAwAgAACAAAIACAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PokerPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CardTemplate.PokerHand" Collapsed="true">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PokerHand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

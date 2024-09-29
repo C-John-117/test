@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e5a9d9a0356e044af78e8a6b0c8e9a, type: 3}
+  m_Name: J of Club
+  m_EditorClassIdentifier: 
+  faceUpSprite: {fileID: -85803062, guid: 6b6d45f43d40fcf40b27758bc4d72e6d, type: 3}
+  suit: 2
+  minValue: 0
+  maxValue: 11
+  state: 2
